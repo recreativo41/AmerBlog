@@ -1,0 +1,37 @@
+	
+name	"Amer news"
+short_name	"Amer News"
+start_url	"https://anggurmerahnews.blogspot.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#C51162"
+description	"Amer News Memberikan Info Update Yang ada disekitar"
+icons	
+0	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s48/Favicon%2BAM%2B.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s72/Favicon%2BAM%2B.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s96/Favicon%2BAM%2B.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s144/Favicon%2BAM%2B.png"
+sizes	"144x144"
+type	"image/png"
+4	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s168/Favicon%2BAM%2B.png
+sizes	"168x168"
+type	"image/png"
+5	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s192/Favicon%2BAM%2B.png"
+sizes	"192x192"
+type	"image/png"
+6	
+src	"https://1.bp.blogspot.com/-9_ZoiUNlqGk/W5Hh0jYoUpI/AAAAAAAAAHo/ETjMHuMzvYQfM7GwicG8WIii7OQjg673wCK4BGAsYHg/s512/Favicon%2BAM%2B.png"
+sizes	"512x512"
+type	"image/png"
